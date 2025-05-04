@@ -1,7 +1,5 @@
 # ☕ Coffee Sales Analysis Dashboard
 
-![Dashboard Preview](https://i.imgur.com/your-image-link.png)
-
 ## 📊 Project Overview
 An interactive Excel dashboard analyzing coffee sales patterns across multiple years (2019-2022) for an international coffee distributor operating in the United States, United Kingdom, and Ireland. This dashboard provides crucial insights into product performance, market trends, and customer buying patterns.
 
@@ -17,6 +15,7 @@ In the competitive coffee market, understanding sales patterns and customer pref
 - What is the relationship between package size, loyalty program participation, and sales volume?
 
 ---
+![Screenshot 2025-04-22 192916](https://github.com/user-attachments/assets/c5067faa-7196-436f-a4fc-c3dea3d8ce36)
 
 ## 🔍 Key Insights
 
